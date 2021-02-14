@@ -1,2 +1,2 @@
 # law_of_large_num
-Code for Law Of Large Number 
+Code for Law Of Large Number using Standard deviation
